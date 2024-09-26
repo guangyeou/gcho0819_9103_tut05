@@ -1,7 +1,7 @@
 gcho0819_9103_tut05
 ## Week 8 Quiz
 ### Part 1
-The art piece I’m drawing inspiration from is “Fireflies on the Water” by Yayoi Kusama. The imaging technique combines infinite mirror reflections, light, and spatial illusions to create a dreamlike environment with a sense of endlessness when the lights are outstretching. The aspect that I would like to incorporate in my project will be the reflection of water and mirrors that create an endless space. This is beneficial to our project in recreating the suggested artwork as this technique displays the method to create reflections from an uneven surface such as water and repetitions for the illusion of endless depth.
+The art piece I’m drawing inspiration from is “Fireflies on the Water” by Yayoi Kusama. The imaging technique combines infinite mirror reflections, light, and spatial illusions to create a dreamlike environment with a sense of endlessness when the lights are outstretched. The aspect that I would like to incorporate in my project will be the reflection of water and mirrors that create an endless space. This is beneficial to our project in recreating the suggested artwork as this technique displays the method to create reflections from an uneven surface such as water and repetitions for the illusion of endless depth.
 
 1. The artwork from Yayoi Kusama
 ![Fireflies on the Water](./readmeImages/Fireflies_on_the_Water.jpg)
